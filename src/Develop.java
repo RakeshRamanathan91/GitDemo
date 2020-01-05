@@ -24,6 +24,8 @@ a.tiger();
 	public void insurance() {
 		// TODO Auto-generated method stub
 		System.out.println("insurance");
+		System.out.println("insurance2");
+		System.out.println("insurance3");
 	}
 
 	@Override
