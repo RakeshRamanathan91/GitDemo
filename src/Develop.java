@@ -16,6 +16,8 @@ a.tiger();
 	public void bank() {
 		// TODO Auto-generated method stub
 	System.out.println("bank");
+	System.out.println("bank2");
+	System.out.println("bank3");
 	}
 
 	@Override
